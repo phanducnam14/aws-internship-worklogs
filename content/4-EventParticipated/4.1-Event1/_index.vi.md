@@ -142,3 +142,7 @@ I learned that building an MVP first is a practical way to test ideas and avoid 
 During the event, I actively listened to the technical sessions and took notes on topics related to CloudFront, AI application design, serverless architecture, and project development mindset.
 
 I also used this event as an opportunity to observe how experienced engineers present technical ideas and how the AWS community shares knowledge. This gave me more motivation to improve my AWS skills and apply what I learned to the final internship project.
+
+## Photo
+
+![AWS Vietnam Community Day 2026](/images/4-EventParticipated/event1-community-day-photo.png)
