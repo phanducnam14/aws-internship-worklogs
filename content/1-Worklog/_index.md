@@ -30,6 +30,3 @@ The internship worklog is organized as follows:
 **Week 10:** [AWS deployment and service configuration](1.10-week10/)
 
 **Week 11:** [Testing, troubleshooting, and documentation](1.11-week11/)
-
-**Week 12:** [Overall Internship Summary](1.12-week12/)
-
