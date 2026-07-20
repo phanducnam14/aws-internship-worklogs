@@ -29,9 +29,9 @@ chapter: false
 
 <p style="text-align: center;">
   <img
-    src="picturess/z8018362022157_3eb5f0688668d061dc22ea44ecb4089f.jpg"
+    src="https://phanducnam14.github.io/aws-internship-worklogs/picturess/z8018362022157_3eb5f0688668d061dc22ea44ecb4089f.jpg"
     alt="Phan Duc Nam"
-    style="width: 280px; max-width: 100%; border-radius: 12px;"
+    style="width: 280px; max-width: 100%; height: auto; border-radius: 12px;"
   >
 </p>
 
