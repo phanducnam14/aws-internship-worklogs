@@ -3,25 +3,25 @@ relativeURLs = false
 canonifyURLs = true
 defaultContentLanguage = "en"
 
-# Change the default theme to be use when building the site with Hugo
+# Hugo theme
 theme = "hugo-theme-learn"
 
-# For search functionality
+# Search functionality
 [outputs]
-home = [ "HTML", "RSS", "JSON"]
+home = ["HTML", "RSS", "JSON"]
 
 [params]
-  # Change default color scheme with a variant one. Can be "red", "blue", "green".
+  landingPageURL = "https://phanducnam14.github.io/aws-internship-worklogs/"
   themeVariant = "workshop"
-  # Git hub repo link
   editURL = ""
-  description = ""
-  author = "thienlh@thienlu.com"
+  description = "AWS Internship Report by Phan Duc Nam"
+  author = "Phan Duc Nam"
   showVisitedLinks = true
   disableBreadcrumb = false
   disableNextPrev = false
-  
+
 [Languages]
+
 [Languages.en]
 title = "Internship Report"
 weight = 1
