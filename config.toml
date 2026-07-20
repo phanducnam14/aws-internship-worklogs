@@ -1,6 +1,6 @@
 baseURL = "https://phanducnam14.github.io/aws-internship-worklogs/"
 relativeURLs = false
-canonifyURLs = false
+canonifyURLs = true
 defaultContentLanguage = "en"
 
 # Change the default theme to be use when building the site with Hugo
